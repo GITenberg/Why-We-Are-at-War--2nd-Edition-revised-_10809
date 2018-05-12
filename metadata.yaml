@@ -1,11 +1,16 @@
 _repo: Why-We-Are-at-War--2nd-Edition-revised-_10809
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: University of Oxford. Faculty of Modern History
     gutenberg_agent_id: '3691'
     url: http://www.gutenberg.org/2009/agents/3691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10809#Why-We-Are-at-War--2nd-Edition-revised-
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
